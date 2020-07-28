@@ -1,0 +1,11 @@
+# temp:
+*.bak
+*.tmp
+
+# Visual Studio Code:
+.vscode
+
+# Windows:
+Desktop.ini
+ehthumbs.db
+Thumbs.db
