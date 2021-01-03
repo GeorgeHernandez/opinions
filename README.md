@@ -19,7 +19,7 @@ I will try to substantiate my opinions on different issues with the following it
 
 Given the above items and context, your opinions will almost certainly differ from mine.
 
-It is impossible and impractical to gather all of the above items about any single issue let alone all issues. However part of this project is to periodically dump in items, and then parse and collate these items to substantiate and clarify may opinions.
+It is impossible and impractical to gather all of the above items about any single issue let alone all issues. However part of this project is to periodically dump in items, and then parse and collate these items to substantiate and clarify my opinions.
 
 ## some quotes on facts and opinions
 
